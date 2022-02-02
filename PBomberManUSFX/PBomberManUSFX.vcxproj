@@ -149,7 +149,6 @@
     <ClCompile Include="Adapters\TileGraph.cpp" />
     <ClCompile Include="Adapters\WallPacman.cpp" />
     <ClCompile Include="Adapters\WallPacmanAdapter.cpp" />
-    <ClCompile Include="ConfigurationKeysScene.cpp" />
     <ClCompile Include="Scenes\ConfigurationKeysScene.cpp" />
     <ClCompile Include="Scenes\CreditsScene.cpp" />
     <ClCompile Include="Decorator\BorderDecoratorWall.cpp" />
@@ -211,7 +210,6 @@
     <ClInclude Include="Adapters\TileGraph.h" />
     <ClInclude Include="Adapters\WallPacman.h" />
     <ClInclude Include="Adapters\WallPacmanAdapter.h" />
-    <ClInclude Include="ConfigurationKeysScene.h" />
     <ClInclude Include="Scenes\ConfigurationKeysScene.h" />
     <ClInclude Include="Scenes\CreditsScene.h" />
     <ClInclude Include="Decorator\BorderDecoratorWall.h" />

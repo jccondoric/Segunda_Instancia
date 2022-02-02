@@ -55,7 +55,7 @@ private:
         */
     void onMenuItemSelect();
     /**
-        * @brief called when menu item was pressed
+        * @brief    
         *
         */
     void onMenuItemPress();

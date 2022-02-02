@@ -13,7 +13,7 @@
     * @brief Menu id
     *
     */
-    enum class MenuItemI 
+    enum class MenuItemI
 {
     None,
     Start,

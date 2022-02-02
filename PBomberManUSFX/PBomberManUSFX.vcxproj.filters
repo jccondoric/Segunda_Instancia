@@ -189,9 +189,6 @@
     <ClCompile Include="Adapters\WallPacmanAdapter.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="ConfigurationKeysScene.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
     <ClCompile Include="Scenes\ConfigurationKeysScene.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
@@ -381,9 +378,6 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="Adapters\WallPacmanAdapter.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
-    <ClInclude Include="ConfigurationKeysScene.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="Scenes\ConfigurationKeysScene.h">
