@@ -78,7 +78,7 @@ MenuScene::MenuScene(GameManager* _gameManager) : Scene(_gameManager)
     startPlayer4Text->setPosition(98, 541.11);
     addObject(startPlayer4Text);
 
-    startPlayer5Text = std::make_shared<Text>(gameManager->getAssetManager()->getFont1(), gameManager->getRenderer(), "The King");
+    startPlayer5Text = std::make_shared<Text>(gameManager->getAssetManager()->getFont1(), gameManager->getRenderer(), "Raioz");
     startPlayer5Text->setColor(colorStandard);
     startPlayer5Text->setSize(160.77, 24.71);
     startPlayer5Text->setPosition(312, 541.11);

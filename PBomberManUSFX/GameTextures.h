@@ -40,4 +40,6 @@ enum class GameTexture : int
     Bomb,
     Explosion,
     Door
+
+
 };

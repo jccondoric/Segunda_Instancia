@@ -9,7 +9,7 @@
 #include "./Scenes/MenuScene.h"
 #include "./Scenes/MenuInicioScene.h"
 #include "./Scenes/YouWinScene.h"
-
+#include "./Scenes/ConfigurationKeysScene.h"
 
 GameManager* GameManager::instance = nullptr;
 
